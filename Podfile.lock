@@ -1,0 +1,24 @@
+PODS:
+  - Mapbox-iOS-SDK (6.3.0):
+    - MapboxMobileEvents (~> 0.10.4)
+  - MapboxMobileEvents (0.10.14)
+  - VLTMaps_HM (1.4.2):
+    - Mapbox-iOS-SDK (= 6.3)
+
+DEPENDENCIES:
+  - VLTMaps_HM
+
+SPEC REPOS:
+  trunk:
+    - Mapbox-iOS-SDK
+    - MapboxMobileEvents
+    - VLTMaps_HM
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: 6a67397df2bcafe5d2851604192aa8de6f8d6c89
+  MapboxMobileEvents: 5a172cc9bbf8ac0e45ba86095cbee685ede248cc
+  VLTMaps_HM: 4a211f3f966d8eac83f153029f2adb2c89fc695e
+
+PODFILE CHECKSUM: 703b8f8c80e9156a4d9687a4885be040b344add0
+
+COCOAPODS: 1.11.3
